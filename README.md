@@ -1,6 +1,6 @@
 # preference info
 ## flights
-- prefer first class
+- prefer business class
 
 ## hotel
 - nearest to AWS HQ
